@@ -1,4 +1,4 @@
-Hi 👋 My name is Teodor Toderita
+Hi 👋 My name is Teodor Toderiță
 ================================
 
 Student in Electronics, Telecommunications, and Information Technology Engineering
