@@ -7,7 +7,7 @@ Student in Electronics, Telecommunications, and Information Technology Engineeri
 I started learning to code in autumn of 2023, when I became a student in Electronics, Telecommunications, and Information Technology. With no prior experience in high school, I began from scratch.I taught myself the basics of Python, and at university, I had the opportunity to dive deeper into programming by studying C++ as part of my coursework. In the summer of 2024, I started learning Unity and C#, which allowed me to begin creating a mobile game that is currently still in development. Now, I’m also starting to study Java. I don’t consider myself an advanced programmer yet, but given where I started and how much I’ve learned in a short time, I’m proud of my progress. I won’t stop here. I’ll keep pushing forward to reach my goals
 
 *   🌍  I'm based in Brasov, Romania
-*   ✉️  You can contact me at [toderitateodor@gmail.com](mailto:toderitateodor@gmail.com)
+*   ✉️  You can contact me at [toderitateodor@gmail.com](mailto:toderitateodor@gmail.com)/[teodor.toderita@student.unitbv.ro](mailto:teodor.toderita@student.unitbv.ro)
 *   🧠  I'm learning JAVA, Unity (C#)
 *   🤝  I'm open to collaborating on Game development
 *   ⚡  I like riding mountain bikes :D
