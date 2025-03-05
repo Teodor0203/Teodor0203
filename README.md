@@ -9,8 +9,7 @@ You can see more of my work in my repositories.
 
 *   🌍  I'm based in Brasov, Romania
 *   ✉️  You can contact me at [toderitateodor@gmail.com](mailto:toderitateodor@gmail.com)/[teodor.toderita@student.unitbv.ro](mailto:teodor.toderita@student.unitbv.ro)
-*   🧠  I'm learning JAVA, Unity (C#)
-*   🤝  I'm open to collaborating on Game development
+*   🧠  I'm learning JAVA, Unity (C#) and how to work with ESP32, Arduino and sensors
 *   ⚡  I like riding mountain bikes :D
 
 ### Skills 
